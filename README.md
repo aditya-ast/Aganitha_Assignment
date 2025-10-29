@@ -57,7 +57,7 @@ Contributing
 - Feel free to open issues or submit PRs. Keep changes small and focused. Add tests where appropriate.
 
 Author
-- (Add your name or organization here)
+- Aditya Jadon
 
 License
 - ISC
